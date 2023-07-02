@@ -28,7 +28,4 @@ A Landing page possui as seguintes funcionalidades:
 
 3. Abra o arquivo `index.html` em um navegador da web para visualizar a página.
 
-## Contribuição
-
-Contribuições são bem-vindas! Se você quiser contribuir para este projeto, sinta-se à vontade para fazer um fork do repositório e enviar um pull request com as suas melhorias.
 
